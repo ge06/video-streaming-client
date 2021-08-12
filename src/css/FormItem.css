@@ -1,0 +1,23 @@
+.form-item{
+    display: flex;
+    margin-bottom: 25px;
+    height: 40px;
+}
+
+.icon{
+    margin-right: 5%;
+}
+.input{
+    width: 200%;
+    border: none;
+    border-radius: 50px;
+    padding: 10px 25px 10px 25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 1em;
+    color:rgba(0,0,0,0.4);
+}
+
+.input:focus{
+    outline: #e2e0e0 solid 0.5px;
+}
